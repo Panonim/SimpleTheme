@@ -1,12 +1,9 @@
-/*{
-  "name": "SimpleTheme",
-  "description": "Just a simple theme for simple users",
-  "author": "b l u e#0007",
-  "version": "1.0.0",
-  "theme": "dark",
-  "minify": true,
-  "main": "SimpleTheme.theme.css"
-}*/
+/**
+* @name SimpleTheme
+* @author b l u e#0007
+* @description Simple Theme For Simple Users
+* @version 0.1
+*/
 
 /* Settings Page */
 .sidebarRegionScroller-FXiQOh,
